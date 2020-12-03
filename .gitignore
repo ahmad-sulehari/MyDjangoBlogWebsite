@@ -1,0 +1,7 @@
+myblog-venv/
+db.sqlite3
+migrations/
+settings.py
+__pycache__/
+*.py[cod]
+
